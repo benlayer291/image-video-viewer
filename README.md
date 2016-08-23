@@ -1,5 +1,3 @@
-# GEL/NOT GEL
-
 A simple prototype built using Vanilla JavaScript and CSS.
 
 To run locally, clone this repo and then in the root of the folder, in terminal run:
