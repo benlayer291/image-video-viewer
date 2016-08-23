@@ -1,0 +1,84 @@
+{
+  "media": [
+    { "id": 4,
+      "type": "image",
+      "desktop": "https://b922bde52f23a8481830-83cb7d8d544f653b52d1a1621f05ea9d.ssl.cf3.rackcdn.com/images/_1920x1296_crop_center-center/Swimming-with-Manatees-Desktop.jpeg",
+      "mobile": "https://b922bde52f23a8481830-83cb7d8d544f653b52d1a1621f05ea9d.ssl.cf3.rackcdn.com/images/_920x1920_crop_center-center/Swimming-with-Manatees.jpg"
+    },
+    { "id": 10,
+      "type": "image",
+      "desktop": "https://b922bde52f23a8481830-83cb7d8d544f653b52d1a1621f05ea9d.ssl.cf3.rackcdn.com/images/_1920x1296_crop_center-center/Human-Tower-Competition-Desktop.jpg",
+      "mobile": "https://b922bde52f23a8481830-83cb7d8d544f653b52d1a1621f05ea9d.ssl.cf3.rackcdn.com/images/_920x1920_crop_center-center/Human-Tower-Competition.jpg"
+    },
+    { "id": 1,
+      "type": "image",
+      "desktop": "https://b922bde52f23a8481830-83cb7d8d544f653b52d1a1621f05ea9d.ssl.cf3.rackcdn.com/images/_1920x1296_crop_center-center/Kawa-Ijen-Desktop.jpg",
+      "mobile": "https://b922bde52f23a8481830-83cb7d8d544f653b52d1a1621f05ea9d.ssl.cf3.rackcdn.com/images/_920x1920_crop_center-center/Kawa-Ijen_v2.jpg"
+    },
+    { "id": 8,
+      "type": "image",
+      "desktop": "https://b922bde52f23a8481830-83cb7d8d544f653b52d1a1621f05ea9d.ssl.cf3.rackcdn.com/images/_1920x1296_crop_center-center/Underwater-Room-desktop.jpg",
+      "mobile": "https://b922bde52f23a8481830-83cb7d8d544f653b52d1a1621f05ea9d.ssl.cf3.rackcdn.com/images/_920x1920_crop_center-center/Underwater-Room_V2.jpg"
+    },
+    { "id": 5,
+      "type": "image",
+      "desktop": "https://b922bde52f23a8481830-83cb7d8d544f653b52d1a1621f05ea9d.ssl.cf3.rackcdn.com/images/_1920x1296_crop_center-center/ice_hotel_update.jpg",
+      "mobile": "https://b922bde52f23a8481830-83cb7d8d544f653b52d1a1621f05ea9d.ssl.cf3.rackcdn.com/images/_920x1920_crop_center-center/Ice-Hotel.jpg"
+    },
+    { "id": 9,
+      "type": "image",
+      "desktop": "https://b922bde52f23a8481830-83cb7d8d544f653b52d1a1621f05ea9d.ssl.cf3.rackcdn.com/images/_1920x1296_crop_center-center/Wavedriver_Havana-Desktop-v2.jpg",
+      "mobile": "https://b922bde52f23a8481830-83cb7d8d544f653b52d1a1621f05ea9d.ssl.cf3.rackcdn.com/images/_920x1920_crop_center-center/Wavedriver_Havana_v3.jpg"
+    },
+    { "id": 6,
+      "type": "image",
+      "desktop": "https://b922bde52f23a8481830-83cb7d8d544f653b52d1a1621f05ea9d.ssl.cf3.rackcdn.com/images/_1920x1296_crop_center-center/Camel-Race-desktop-v2.jpg",
+      "mobile": "https://b922bde52f23a8481830-83cb7d8d544f653b52d1a1621f05ea9d.ssl.cf3.rackcdn.com/images/_920x1920_crop_center-center/Camel-Race-v2.jpg"
+    },
+    { "id": 2,
+      "type": "image",
+      "desktop": "https://b922bde52f23a8481830-83cb7d8d544f653b52d1a1621f05ea9d.ssl.cf3.rackcdn.com/images/_1920x1296_crop_center-center/Impression-of-Lijiang-Desktop.jpg",
+      "mobile": "https://b922bde52f23a8481830-83cb7d8d544f653b52d1a1621f05ea9d.ssl.cf3.rackcdn.com/images/_920x1920_crop_center-center/Impression-of-Lijiang.jpg"
+    },
+    { "id": 3,
+      "type": "image",
+      "desktop": "https://b922bde52f23a8481830-83cb7d8d544f653b52d1a1621f05ea9d.ssl.cf3.rackcdn.com/images/_1920x1296_crop_center-center/Buchon-Village-Seoul-Desktop.jpg",
+      "mobile": "https://b922bde52f23a8481830-83cb7d8d544f653b52d1a1621f05ea9d.ssl.cf3.rackcdn.com/images/_920x1920_crop_center-center/Buchon-Village-Seoul.jpg"
+    },
+    { "id": 7,
+      "type": "image",
+      "desktop": "https://b922bde52f23a8481830-83cb7d8d544f653b52d1a1621f05ea9d.ssl.cf3.rackcdn.com/images/_1920x1296_crop_center-center/san_francisco_startframe.jpg",
+      "mobile": "https://b922bde52f23a8481830-83cb7d8d544f653b52d1a1621f05ea9d.ssl.cf3.rackcdn.com/images/_920x1920_crop_center-center/San-fransisco-1.jpg"
+    },
+    { "id": 11,
+      "type": "video",
+      "desktop": "./videos/video.mp4",
+      "mobile": "",
+      "image": "./images/image.png"
+    },
+    { "id": 12,
+      "type": "video",
+      "desktop": "./videos/video2.mp4",
+      "mobile": "",
+      "image": "./images/image2.png"
+    },
+    { "id": 13,
+      "type": "video",
+      "desktop": "./videos/video3.mp4",
+      "mobile": "",
+      "image": "./images/image3.png"
+    },
+    { "id": 14,
+      "type": "video",
+      "desktop": "./videos/video4.mp4",
+      "mobile": "",
+      "image": "./images/image4.png"
+    },
+    { "id": 15,
+      "type": "video",
+      "desktop": "./videos/video5.mp4",
+      "mobile": "",
+      "image": "./images/image5.png"
+    }
+  ]
+}
